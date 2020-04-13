@@ -5,7 +5,7 @@
 
 ## 使用方式
 
-将脚本放置节点中，sh/bash TKE_info_check.sh 
+将脚本放置节点中`sh/bash TKE_info_check.sh `
 
 脚本执行完毕后日志将会收集到`/tmp/tkelog/tkelog.tar.gz`
 
